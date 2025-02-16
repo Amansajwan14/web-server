@@ -103,8 +103,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📞 Contact
 
-Anshul Rawat - anshulrawat519@gmail.com
-Project Link: [https://github.com/anshulrawat2507/web-server.git]((https://github.com/anshulrawat2507/web-server))
+Aman sajwan - sajwanaman1@gamil.com
+Project Link: [https://github.com/Amansajwan14/web-server.git]((https://github.com/Amansajwan14/web-server))
 
 ## 🙏 Acknowledgments
 
